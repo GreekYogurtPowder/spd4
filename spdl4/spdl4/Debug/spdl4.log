@@ -1,0 +1,8 @@
+﻿  instancja.cpp
+K:\PWR\VI sem\SPD\spd4\spdl4\spdl4\RandomNumberGenerator.h(29,13): warning C4244: "inicjowanie": konwersja z "double" do "float", możliwa utrata danych
+K:\PWR\VI sem\SPD\spd4\spdl4\spdl4\instancja.cpp(91,20): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+  main.cpp
+K:\PWR\VI sem\SPD\spd4\spdl4\spdl4\RandomNumberGenerator.h(29,13): warning C4244: "inicjowanie": konwersja z "double" do "float", możliwa utrata danych
+  zadanie.cpp
+  Generowanie kodu...
+  spdl4.vcxproj -> K:\PWR\VI sem\SPD\spd4\spdl4\Debug\spdl4.exe
